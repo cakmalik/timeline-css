@@ -1,1 +1,1 @@
-![Screenshot of the project](images/ss.png)
+![Screenshot of the project](ss.png)
